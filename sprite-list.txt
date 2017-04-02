@@ -1,0 +1,53 @@
+OBJECTS==========================================================
+Player ship
+	- x wing 
+		-pointing sideways
+		-moving up view
+		-moving downwards view
+	- x wing projectiles
+	- missile projectile
+
+Enemy Ships
+	- bolo tie fighters
+		- pointing sideways
+		- moving up 
+		- moving down
+	- enemy projectiles
+
+Turrets
+	- turret
+	- double turret
+	- turret projectiles
+	- turret laser
+
+Laser Trap
+	- laser emitter
+	- laser beam
+
+Spike Trap
+	- spikes
+
+Doors
+	- emergency trap doors
+
+Sticky Trap
+	- sticky balls
+
+ENVIRONMENT======================================================
+Walls
+	- side/chokepoint walls
+	- background walls
+
+Sections
+	- power core
+	- prison complex
+	- ship hangar
+	- operation
+	- training section
+	- research lab
+	- armory
+
+Intro Scene
+	- Title art
+	- menu screen art (megaman style)
+	- 
