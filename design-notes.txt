@@ -1,0 +1,1 @@
+-Might want to add flashing red lights to show that the player is intruding into a base that is on HIGH ALERT.
